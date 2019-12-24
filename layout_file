@@ -1,0 +1,15 @@
+<%= link_to "English", locale:"en" %>
+<%= link_to "Vietnamese", locale:"vi" %>
+<!DOCTYPE html>
+<html>
+ <head>
+ 	<title><%= t(".title")</title>
+ </head>
+ <body>
+ 	<h1><%= t(".head")</h1>
+ 	<p>
+    Đây là trang chủ.
+ 		<a href="https://www.railstutorial.org">Nhận tài liệu hướng dẫn Rails ở đây</a>
+ 	</p>
+ </body>
+ </html>

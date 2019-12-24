@@ -1,0 +1,15 @@
+<% provide(:title, "About") %>
+<%= link_to "English", locale: "en" %>
+<%= link_to "Vietnamese", locale: "vi" %>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <%= yield(:title) %> | Ruby on Rails Tutorial Sample App</title>
+</head>
+
+<body>
+    <h1><%= t ".contact" %></h1>
+
+</body>
