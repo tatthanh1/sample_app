@@ -1,2 +1,3 @@
-<h1><%= t ".helptitle" %> </h1>
-<h1><%= link_to t(".helplink"), "#" %></h1>
+<% provide(:title, t("help")) %>
+<h1><%= t(".helptitle") %> </h1>
+<h1> <%= link_to  t(".helplink"), "https://news.railstutorial.org" %></h1>
