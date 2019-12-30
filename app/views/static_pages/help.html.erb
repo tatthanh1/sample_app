@@ -1,14 +1,5 @@
-<% provide(:title, "Help") %>
-<%= link_to "English", locale: "en" %>
-<%= link_to "Vietnamese", locale: "vi" %>
-<!DOCTYPE html>
- <html>
-  <head>
-   <title><%= yield(:title) %> </title>
-  </head>
-  <body>
+
    <h1><%= t ".helptitle"%> </h1>
    <h1> <%= link_to  t(".helplink"), "https://www.railstutorial.org/help" %></h1>
 
-  </body>
- </html>
+
