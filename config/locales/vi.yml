@@ -1,10 +1,12 @@
 vi:
+  english: English
+  vietnam: VietNamese
   static_pages:
     home:
       title: Trang chủ
       head: Chào mừng bạn đến với trang web của Thành
       desk: Đây là trang chủ
-      edes: Nhận tài liệu hướng dẫn tại đây!
+      homelink: Nhận tài liệu hướng dẫn tại đây!
     help:
       helptitle: Trợ giúp
       helplink: Xem hướng dẫn tại đây

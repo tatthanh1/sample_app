@@ -1,10 +1,12 @@
 en:
+  english: English
+  vietnam: VietNamese
   static_pages:
     home:
       title: Home
       head: Welcome to Thanh's page
       desk: This is home page
-      edes: Get tutorial documents here!
+      homelink: Get tutorial documents here!
     help:
       helptitle: Help Page
       helplink: This is tutorial link
