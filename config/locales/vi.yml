@@ -1,4 +1,9 @@
 vi:
+  title: Ruby on Rails Tutorial Sample App
+  layouts:
+    application:
+      vietnam: Tiếng Việt
+      english: Tiếng Anh
   static_pages:
     home:
       title: Trang chủ

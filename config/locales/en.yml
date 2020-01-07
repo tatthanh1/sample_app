@@ -1,7 +1,10 @@
 en:
+  title: Ruby on Rails Tutorial Sample App
+  layouts:
+    application:
+      vietnam: VietNamese
+      english: English
   static_pages:
-    vietnam: VietNamese
-    english: English
     home:
       title: Home
       head: Welcome to Thanh's page
