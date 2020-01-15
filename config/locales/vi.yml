@@ -1,15 +1,29 @@
 vi:
+  sampleapp: Sample App
+  help: Trợ giúp
   title: Ruby on Rails Tutorial Sample App
   layouts:
     application:
       vietnam: Tiếng Việt
       english: Tiếng Anh
+  news: Tin tức
+  title: Sample App
+  signup: Đăng Kí
+  signupheader: Đây là trang đăng kí dành cho người dùng mới.
+  signupnow: Đăng kí ngay!
+  about: Về chúng tôi
+  home: Trang chủ
+  help: Trợ giúp
+  login: Đăng nhập
   static_pages:
     home:
       title: Trang chủ
       head: Chào mừng bạn đến với trang web của Thành
       desk: Đây là trang chủ
       homelink: Nhận tài liệu hướng dẫn tại đây!
+      edes: Nhận tài liệu hướng dẫn tại đây!
+      signup: Đăng kí ngay!
+      home: Trang chủ
     help:
       helptitle: Trợ giúp
       helplink: Xem hướng dẫn tại đây
